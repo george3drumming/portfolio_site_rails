@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+h1 
+{color: red;
+}
+body {
+  margin: 40px 60px;
+}
+#headshot {
+    width: 300px;
+    height: auto;
+}
+#headshotContainer {
+  display: inline-block;
+  width: 30%;
+     margin: -4px;
+}
+
+#aboutContainer {
+  display: inline-block;
+    width: 70;
+    margin: -4px;
+    vertical-align: top;
+}
